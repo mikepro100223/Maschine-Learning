@@ -1,7 +1,8 @@
 # Maschine-Learning
 
-## Daten
+## Datensatz
 In meinen Daten geht es um Flugzeug Unfälle zwischen 1919 bis 2023.
+Der Datensatz hat mehr als 23'000 Unfälle oder Vorfälle gelistet.
 Es besteht aus 9 Bereichen: Date, Flugzeug Typ, registration, Operator, fatalities, location, country, category, year.
 - Datum, Genaue Datum des Unfalls, falls bekannt.
 - Flugzeug Typ, Welches Flugzeug ist verunfallt.

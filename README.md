@@ -1,8 +1,8 @@
 # Maschine-Learning
 
 ## Daten
-In meinen Daten geht es um Flugzeug Unfälle zwischen den 1919 bis 2023.
-Es besteht aus 9 Bereichen. Date, Flugzeug Typ, registration, Operator, fatalities, location, country, category, year.
+In meinen Daten geht es um Flugzeug Unfälle zwischen 1919 bis 2023.
+Es besteht aus 9 Bereichen: Date, Flugzeug Typ, registration, Operator, fatalities, location, country, category, year.
 - Datum, Genaue Datum des Unfalls, falls bekannt.
 - Flugzeug Typ, Welches Flugzeug ist verunfallt.
 - Registration, Kennzeichen des Flugzeugs.

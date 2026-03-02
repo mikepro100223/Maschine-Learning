@@ -14,3 +14,4 @@ Es besteht aus 9 Bereichen: Date, Flugzeug Typ, registration, Operator, fataliti
 - year, In welchem Jahr ist es passiert.
 
 ## Datenschutz
+Der Datensatz berührt den Datenschutz lediglich am Rand, da er von den ursprünglichen Herausgebern bereits anonymisiert wurde. Vertrauliche personenbezogene Angaben der Passagiere sind darin nicht enthalten. Zwar sind die Namen der Operators ersichtlich, jedoch stellen diese keine sensiblen Informationen dar. Für dieses Projekt wurden daher keine zusätzlichen Daten entfernt, da der Datensatz öffentlich unter einer CC0-Lizenz verfügbar ist und keine relevanten privaten Informationen im Sinne der DSGVO offenlegt.
